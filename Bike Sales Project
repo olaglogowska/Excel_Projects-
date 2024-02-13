@@ -1,0 +1,28 @@
+# Bike Sales Dashboard
+
+Welcome to the Bike Sales Dashboard repository! This collection includes a dataset related to bike sales and a dashboard designed to provide insightful visualizations and analytics.
+
+## Dataset Details:
+- The dataset contains information on bike sales, including date, location, model, and sales figures.
+- Data is organized to facilitate analysis of sales trends, regional performance, and age branches.
+
+## Dashboard Features:
+- **Sales Overview:** Visual representation of overall sales performance.
+- **Regional Analysis:** Maps and charts highlighting sales distribution across different locations.
+- **Age Branches:** Insights into the popularity of buying bikes in each ages group.
+- **Time Series Trends:** Analyzing sales trends over time for strategic planning.
+
+## Usage Instructions:
+1. Clone the repository to your local machine.
+2. Open the dashboard file in your preferred data visualization tool (e.g., Tableau, Power BI).
+3. Connect the dataset to the dashboard tool and explore the visualizations.
+
+## Technical Requirements:
+- Data Visualization Tool: None - Graphs/ Slices/ Pivot Table (Excel only)
+
+
+Feel free to explore, analyze, and customize the dashboard according to your specific needs. If you have any questions or suggestions, please reach out!
+
+Happy analyzing!
+
+A🌼
